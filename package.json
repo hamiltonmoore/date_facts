@@ -1,0 +1,24 @@
+{
+  "name": "date_facts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamiltonmoore/date_facts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamiltonmoore/date_facts/issues"
+  },
+  "homepage": "https://github.com/hamiltonmoore/date_facts#readme"
+}
